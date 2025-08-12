@@ -1,7 +1,13 @@
+import Banner
+ from "./components/Banner";
 const App = () => {
   return ( 
-<>my app name is green-mood</>
+<>
+<Banner />
 
+<Banner />
+
+</>
    );
 }
  
