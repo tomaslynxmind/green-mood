@@ -1,6 +1,6 @@
 const App = () => {
   return ( 
-<>my app</>
+<>my app name is green-mood</>
 
    );
 }
