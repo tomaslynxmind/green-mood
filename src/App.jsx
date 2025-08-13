@@ -1,9 +1,10 @@
-import Banner
- from "./components/Banner";
+import About from "./components/About";
+import Banner from "./components/Banner";
 const App = () => {
   return ( 
 <>
 <Banner />
+<About />
 
 <Banner />
 
