@@ -1,6 +1,6 @@
 import About from './components/About';
 import Banner from './components/Banner';
-import Food_type from './components/Food_type';
+import FoodType from './components/FoodType';
 import Menu from './components/Menu';
 import Testimonia from './components/Testimonia';
 import Contact from './components/Contact';
@@ -13,7 +13,7 @@ const App = () => {
 			<Navbar />
 			<Banner />
 			<About />
-			<Food_type />
+			<FoodType />
 			<Menu />
 			<Testimonia />
 			<Contact />
