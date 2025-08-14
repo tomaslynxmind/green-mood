@@ -13,7 +13,7 @@ const Navbar = () => {
 	];
 
 	return (
-		<nav className='sticky top-0 z-50 w-full bg-white/80 backdrop-blur border-b'>
+		<nav className='sticky top-0 z-50 w-full px-6 bg-white/40 backdrop-blur'>
 			<Container className='flex items-center justify-between py-3'>
 				<a href='#home' className='text-2xl font-extrabold tracking-tight'>
 					Green <span className='text-brand-600'>Mood</span>
