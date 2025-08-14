@@ -421,7 +421,7 @@ body {
 .form-container a {
   font-size: 1.3rem;
 }
-
+/* 
 #footer h2 {
   text-align: center;
   font-size: 1.8rem;
@@ -430,7 +430,7 @@ body {
   color: #fff;
   background: rgb(66, 47, 4);
 }
-
+ */
 @media (max-width: 768px) {
   .navbar {
     opacity: 0.95;
