@@ -10,6 +10,9 @@ const Banner = () => {
 				<Button href='#food-menu' className='bg-orange-800 text-white hover:opacity-40 mt-2'>
 					Menu
 				</Button>
+				<Button href='#food-menu' className='bg-green-800 text-white hover:opacity-40 mt-2'>
+					Menu
+				</Button>
 			</div>
 		</section>
 	);
