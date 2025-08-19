@@ -8,7 +8,7 @@ const Banner = () => {
 				</h1>
 				<p>Comer Saudável, é bom para a nossa saúde</p>
 
-				<Button href='#food-menu' className='bg-orange-800 text-white hover:opacity-40 mt-2'>
+				<Button href='#food-menu' className='bg-orange-800 text-white hover:opacity-40 mt-2 '>
 					Veja o nosso Menu
 				</Button>
 				<Button href='#contact' className='bg-green-800 text-white hover:opacity-40 mt-2'>
