@@ -15,7 +15,7 @@ const About = () => {
 					</Button>
 				</div>
 				<div class='about-img'>
-					<img src='#' alt='food' />
+					<img src='https://raw.githubusercontent.com/claudineiaga/Site-de-Restaurante/refs/heads/main/imagem11.JPG' alt='food' />
 				</div>
 			</div>
 		</section>

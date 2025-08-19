@@ -27,28 +27,6 @@ body {
 	margin: auto;
 }
 
-.btn {
-	display: inline-block;
-	padding: 0.5em 1.5em;
-	text-decoration: none;
-	border-radius: 50px;
-	cursor: pointer;
-	outline: none;
-	margin-top: 1em;
-	text-transform: uppercase;
-	font-weight: small;
-}
-
-.btn-primary {
-	color: rgb(247, 244, 244);
-	background: #583509;
-}
-
-.btn-primary:hover {
-	background: #a7610c;
-	transition: background 0.3s ease-in-out;
-}
-
 .navbar input[type='checkbox'],
 .navbar .hamburger-lines {
 	display: none;
