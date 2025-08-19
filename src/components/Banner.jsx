@@ -7,11 +7,12 @@ const Banner = () => {
 					Coma a Comida Certa
 				</h1>
 				<p>Comer Saudável, é bom para a nossa saúde</p>
+
 				<Button href='#food-menu' className='bg-orange-800 text-white hover:opacity-40 mt-2'>
-					Menu
+					Veja o nosso Menu
 				</Button>
-				<Button href='#food-menu' className='bg-green-800 text-white hover:opacity-40 mt-2'>
-					Menu
+				<Button href='#contact' className='bg-green-800 text-white hover:opacity-40 mt-2'>
+					Contactos
 				</Button>
 			</div>
 		</section>

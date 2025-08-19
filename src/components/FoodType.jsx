@@ -1,3 +1,4 @@
+import Button from './Button';
 const FoodType = () => {
 	return (
 		<section id='food'>
@@ -8,9 +9,10 @@ const FoodType = () => {
 						<img src='https://raw.githubusercontent.com/claudineiaga/Site-de-Restaurante/refs/heads/main/imagem9.JPG' alt='error' />
 						<div class='img-content'>
 							<h3>Frutas</h3>
-							<a href='https://www.todamateria.com.br/frutas' class='btn btn-primary' target='blank'>
-								Ler Mais...
-							</a>
+
+							<Button href='https://www.todamateria.com.br/fruta' className='bg-orange-800 text-white hover:opacity-40 mt-2'>
+								Ler Mais
+							</Button>
 						</div>
 					</div>
 				</div>
