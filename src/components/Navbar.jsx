@@ -4,7 +4,7 @@ import Container from './Container';
 const Navbar = () => {
 	const [open, setOpen] = useState(false);
 	const nav = [
-		{href: '#home', label: 'Início'},
+		{href: '#showcase', label: 'Início'},
 		{href: '#about', label: 'Sobre'},
 		{href: '#food', label: 'Categoria'},
 		{href: '#food-menu', label: 'Menu'},
