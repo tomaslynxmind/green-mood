@@ -4,7 +4,7 @@ const pratos = [
 		preco: "10€",
 		descricao:
 			"Mistura fresca de alface, rúcula e agrião, acompanhada de manga, ananás e morango. Com frango grelhado (ou camarão), nozes, queijo feta e molho de iogurte com mel.",
-		img: "https://raw.githubusercontent.com/claudineiaga/Site-de-Restaurante/refs/heads/main/imagem2.JPG",
+		img: "https://espaconatelie.com.br/wp-content/uploads/2024/04/salada-tropical.jpg",
 	},
 	{
 		titulo: "Salada de Frango",
