@@ -3,6 +3,7 @@ const Testimonial = () => {
    <section id="testimonials">
         <h2 class="testimonial-title">O que nossos Clientes Falam sobre nós:</h2>
         <div class="testimonial-container container">
+          {/* Testemunho 1 */}
           <div class="testimonial-box">
             <div class="customer-detail">
               <div class="customer-photo">
@@ -22,13 +23,11 @@ const Testimonial = () => {
               Volto sempre que estou na cidade.
             </p>
           </div>
+          {/* Testemunho 2 */}
           <div class="testimonial-box">
             <div class="customer-detail">
               <div class="customer-photo">
-                <img
-                  src="https://i.postimg.cc/sxd2xCD2/female-photo1.jpg"
-                  alt=""
-                />
+                <img src="https://i.postimg.cc/sxd2xCD2/female-photo1.jpg" alt="" />
                 <p class="customer-name">Amelia Gonçalves</p>
               </div>
             </div>
@@ -44,6 +43,7 @@ const Testimonial = () => {
               Espero sempre voltar neste lugar maravilhoso!
             </p>
           </div>
+          {/* Testemunho 3 */}
           <div class="testimonial-box">
             <div class="customer-detail">
               <div class="customer-photo">
@@ -67,5 +67,5 @@ const Testimonial = () => {
       </section>      
     );
 }
- 
+
 export default Testimonial;
